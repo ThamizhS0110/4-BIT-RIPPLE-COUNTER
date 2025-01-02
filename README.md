@@ -54,4 +54,7 @@ Generate the RTL schematic and timing diagrams.
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 ![Screenshot 2024-12-18 153827](https://github.com/user-attachments/assets/4a6eb076-a4bd-4fe4-9010-11be23df0287)
 **RESULTS**
+The 4-bit ripple counter was successfully implemented in Verilog, and its functionality was validated using simulation results.
+
+
 
