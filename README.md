@@ -24,7 +24,21 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 **Procedure**
 
-/* write all the steps invloved */
+Open Quartus Prime software.
+
+Create a new project and include a Verilog file for the 4-bit ripple counter.
+
+Write the Verilog code for the 4-bit ripple counter using T flip-flops.
+
+Compile the project to check for errors.
+
+Simulate the design to observe the waveform outputs.
+
+Compare the output against the truth table to verify functionality.
+
+Generate the RTL schematic and timing diagrams.
+
+
 
 **PROGRAM**
 
